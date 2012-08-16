@@ -1,0 +1,12 @@
+Initializing FET...
+FET protocol version is 20409001
+Configured for JTAG (2)
+Sending reset...
+fet: FET returned error code 30 (Could not access device - security fuse is blown)
+warning: fet: reset failed
+Set Vcc: 3000 mV
+fet: FET returned error code 4 (Could not find device (or device not supported))
+fet: command C_IDENT1 failed
+fet: identify failed
+
+
